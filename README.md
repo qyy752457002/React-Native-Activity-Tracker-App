@@ -1,8 +1,13 @@
-![Uploading image.png…]()
-
-
 
 # Welcome to your Expo app 👋
+
+![微信图片_20241030210958](https://github.com/user-attachments/assets/2885eb8e-f89b-4512-8b24-faddfadfe070)
+![微信图片_20241030210955](https://github.com/user-attachments/assets/0cb89196-ac0f-4de9-937b-6ce8ce542fb0)
+![微信图片_20241030210916](https://github.com/user-attachments/assets/ca50390d-7941-42ee-afcc-b0a8cb5b9359)
+![微信图片_20241030211007](https://github.com/user-attachments/assets/793d55dd-4526-4e26-bda7-41ee5e94ed45)
+![微信图片_20241030211004](https://github.com/user-attachments/assets/818c3ee4-79e6-4a24-b914-126d37147b99)
+![微信图片_20241030211001](https://github.com/user-attachments/assets/cba35b67-963a-47fe-90c4-098b7637cd81)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
